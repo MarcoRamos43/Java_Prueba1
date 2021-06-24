@@ -18,6 +18,7 @@ public class P002 {
         System.out.println("Hola Mundo Punto y Coma");
         System.out.println("Saludos a todos los compañeros de Punto y Coma");
         System.out.println("Cambio desde VS Code");
+        System.out.println("4to cambio. VS Code");
     }
     
 }
