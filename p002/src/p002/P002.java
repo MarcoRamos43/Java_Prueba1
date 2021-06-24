@@ -16,6 +16,7 @@ public class P002 {
      */
     public static void main(String[] args) {
         System.out.println("Hola Mundo Punto y Coma");
+        System.out.println("Saludos a todos los compañeros de Punto y Coma");
     }
     
 }
